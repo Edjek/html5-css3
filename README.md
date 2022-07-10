@@ -1,10 +1,10 @@
-# html5-css3
+# HTML5-CSS3
 
 Formation et exercice au Dev Web
 
 ## Description
 
-support de formation Web
+Support à l'initiation des technologies du Web
 
 ## Authors
 
@@ -13,6 +13,6 @@ edjek@hotmail.fr
 
 ## Version History
 
-1.0
+2.0
 
 ## License
