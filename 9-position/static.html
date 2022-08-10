@@ -6,29 +6,28 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <link rel="stylesheet" href="css/style.css" />
-        <link rel="stylesheet" href="css/absolute.css" />
-        <title>CSS - Position absolute</title>
+        <link rel="stylesheet" href="css/static.css" />
+        <title>CSS - Position static</title>
     </head>
 
     <body>
-        <!-- {position: absolute;} -->
+        <!-- {position: static;} | c'est la valeur par defaut -->
         <div class="container"></div>
+        <div class="container2"></div>
 
         <div class="definition">
-            <h1>{ position: absolute; }</h1>
+            <h1>{ position: static; }</h1>
             <p>
-                Un élément avec position : absolute ; est positionné par rapport
-                à l'ancêtre positionné le plus proche (au lieu d'être positionné
-                par rapport à la fenêtre d'affichage, comme fixed).
-            </p>
-            <p>
-                Cependant, si un élément en position absolue n'a pas d'ancêtres
-                positionnés, il utilise le corps du document et se déplace avec
-                le défilement de la page.
-            </p>
-            <p>
-                Il sort du "flux". (il se retrouve comme sur un calque au
-                dessus)
+                Les éléments HTML sont positionnés en static par défaut.
+                <br />
+                Ils se mettent les uns au dessus des autres ou côte à côte
+                <br />
+                Les éléments positionnés statiquement ne possèdent pas les
+                propriétés top, bottom, left right et z-index.
+                <br />
+                Un élément avec { position : static; } n'est pas positionné de
+                manière particulière ; il est toujours positionné selon le flux
+                normal de la page :
             </p>
             <div>
                 <a href="index.html">Accueil</a>

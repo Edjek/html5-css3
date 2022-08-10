@@ -5,6 +5,42 @@
 }
 
 body {
-    /* On agrandi la longeur de la page pour avoir du scroll */
-    height: 1200px;
+    /* On agrandi la hauteur de la page pour avoir du scroll */
+    height: 2000px;
+    font-size: 18px;
+    padding: 50px;
+}
+
+.item {
+    height: 400px;
+    margin: 50px;
+    padding: 50px 100px;
+    background-color: #610c63;
+    border-radius: 20px;
+}
+
+.item1 {
+    height: 100px;
+    background-color: #ee81b3;
+}
+
+.item2 {
+    position: fixed;
+    bottom: 50px;
+    right: 100px;
+    width: 70px;
+    height: 70px;
+    background-color: #3a5ba0;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+.item3 {
+    height: 100px;
+    background-color: #fff9d7;
 }
