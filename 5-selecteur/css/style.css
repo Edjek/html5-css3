@@ -33,7 +33,7 @@ h2 {
 /* Consequence l'element qui a cet id sera modifié */
 /* On préfère laisser les ID au Javascript sauf exception */
 #ancre {
-    /* font-size: 60px; */
+    font-size: 60px;
 }
 
 /* On peut selectionner des balises spécifiques par selecteurs descendants */
