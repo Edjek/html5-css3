@@ -16,8 +16,7 @@ p {
 }
 
 .item {
-    
-    height: 400px;
+    min-height: 400px;
     margin: 50px;
     padding: 50px 100px;
     background-color: #610c63;
@@ -30,19 +29,8 @@ p {
 }
 
 .item2 {
-    position: fixed;
-    bottom: 50px;
-    right: 100px;
-    width: 70px;
-    height: 70px;
+    height: 100px;
     background-color: #3a5ba0;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #fff;
-    font-size: 22px;
-    font-family: sans-serif;
 }
 
 .item3 {
