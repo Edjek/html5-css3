@@ -11,11 +11,11 @@ h1 {
 }
 
 h2 {
-    color: #4169E1;
+    color: #4169e1;
 }
 
 /* On peut selectionner des balises spécifiques grâce aux class en utlisant le . */
-/* Consequences tous les element qui ont cette class seront modifiés */
+/* Conséquence tous les element qui ont cette class seront modifiés */
 .section-3 {
     color: #229954;
 }
@@ -28,23 +28,20 @@ h2 {
     color: #6c3483;
 }
 
-
-/* On peut selectionner une balise spécifique par l'id en utilisant un # */
-/* Consequence l'element qui a cet id sera modifié */
+/* On peut selectionner une balise spécifique grâce à son id en utilisant un # */
+/* Conséquence l'element qui a cet id sera modifié */
 /* On préfère laisser les ID au Javascript sauf exception */
 #ancre {
     font-size: 60px;
 }
 
-/* On peut selectionner des balises spécifiques par selecteurs descendants */
-
+/* On peut selectionner des balises spécifiques par selecteur descendant */
 .section-1 h5 {
     color: #6c3483;
 }
 
-
 /* Je peux selectionner plusieurs elements en les séparant par une virgule */
-
-.section-1 h4, .section-3 .item-ol li {
+.section-1 h4,
+.section-3 .item-ol li {
     color: orange;
 }
