@@ -15,6 +15,3 @@ https://codepen.io/dihcar-cesar
 
 <!-- Pour vous exercer aux flexbox -->
 https://flexboxfroggy.com/#fr
-
-<!-- Petit rappel de propriétés CSS -->
-https://fr.learnlayout.com/
