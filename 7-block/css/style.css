@@ -50,7 +50,6 @@ body {
     /* La propriété raccourci { border: } permet de preciser la taille, le style et la couleur de la bordure */
     /* border: 2px solid black; */
 
-    /* { border-radius: } permet d'arrondir les angles */
     border-radius: 10px;
 
     /* { box-shadow: }  permet de créer une ombre */

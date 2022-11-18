@@ -21,7 +21,7 @@
     flex-wrap: wrap; /* nowrap */
 
     /* gap permet de mettre de l'espace entre les enfants direct */
-    gap: 10px;
+    /* gap: 10px; */
 
     background-color: #4caf50;
     min-height: 600px;
