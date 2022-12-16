@@ -1,4 +1,5 @@
 <!-- W3C Validator -->
+https://validator.w3.org/
 https://jigsaw.w3.org/css-validator/
 
 <!-- Les polices de caractère -->
@@ -6,8 +7,11 @@ https://fonts.google.com/
 
 <!-- Banque d'image -->
 https://pixabay.com/fr/
+https://www.pexels.com/fr-fr/
 
 <!-- Pour des couleurs assortis en CSS -->
+https://colorhunt.co/
+https://flatuicolors.com/
 https://coolors.co/
 
 <!-- Pour partager du CSS -->
