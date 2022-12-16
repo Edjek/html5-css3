@@ -53,7 +53,7 @@ body {
     border-radius: 10px;
 
     /* { box-shadow: }  permet de créer une ombre */
-    box-shadow: 4px 4px 10px #999;
+    box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.5);
 }
 
 h1 {
@@ -79,7 +79,13 @@ h1 {
     align-items: center;
 
     /* { box-shadow: }  permet de créer une ombre */
-    box-shadow: 4px 4px 10px #999;
+    box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.5);
+    transition: .25s;
+}
+
+.round:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 50px rgba(0, 0, 0, 0.5);
 }
 
 .definition {

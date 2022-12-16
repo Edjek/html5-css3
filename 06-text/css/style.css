@@ -62,5 +62,15 @@ a {
 /* La pseudo class :hover signifie au survole */
 a:hover {
     color: #f27c7c;
-    font-size: 24px;
+    font-size: 23px;
+}
+
+/* La pseudo class :visited signifie une fois que le lien a été clicqué une fois */
+a:visited {
+    color: orange;
+}
+
+/* La pseudo class :active signifie pendant le click */
+a:active {
+    color: green;
 }
