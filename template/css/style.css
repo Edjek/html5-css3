@@ -22,6 +22,12 @@ body {
     color: #333;
 }
 
+.hero {
+    background-color: pink;
+    padding: 20px 0;
+    text-align: center;
+}
+
 /* Permet de faire du Responsive */
 /* A l'interieur des accolades les propriété que l'on souhaite pour un écran jusqu'à 800px */
 @media only screen and (max-width: 768px) {

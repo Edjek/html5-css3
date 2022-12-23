@@ -45,6 +45,7 @@ h1 {
 .container p {
     width: 200px;
     height: 100px;
+    padding: 20px;
     text-align: center;
     background-color: #3498db;
 }
