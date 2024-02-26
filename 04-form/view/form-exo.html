@@ -9,7 +9,6 @@
             th,
             td {
                 border: 1px solid black;
-                /* padding: 15px 50px; */
             }
         </style>
     </head>
@@ -17,9 +16,7 @@
         <div>
             <form action="">
                 <table>
-                    <caption>
-                        Nouvel exercice
-                    </caption>
+                    <caption>Nouvel exercice</caption>
                     <tr>
                         <td>
                             <label for="pseudo">Pseudo</label>
@@ -65,7 +62,9 @@
                     </tr>
                     <tr>
                         <td>
-                            <label for="commentaire">Dites nous en plus sur vous</label>
+                            <label for="commentaire">
+                                Dites nous en plus sur vous
+                            </label>
                         </td>
                         <td>
                             <textarea id="commentaire"></textarea>
@@ -74,9 +73,19 @@
                     <tr>
                         <td>Sexe</td>
                         <td>
-                            <input type="radio" id="men" name="type" value="men" />
+                            <input
+                                type="radio"
+                                id="men"
+                                name="type"
+                                value="men"
+                            />
                             <label for="men">Homme</label>
-                            <input type="radio" id="women" name="type" value="women" />
+                            <input
+                                type="radio"
+                                id="women"
+                                name="type"
+                                value="women"
+                            />
                             <label for="women">Femme</label>
                         </td>
                     </tr>
@@ -91,7 +100,9 @@
                     </tr>
                     <tr>
                         <td>
-                            <label for="download">Telecharger</label>
+                            <label for="download">
+                                Telecharger votre photo
+                            </label>
                         </td>
                         <td>
                             <input type="file" id="download" />
