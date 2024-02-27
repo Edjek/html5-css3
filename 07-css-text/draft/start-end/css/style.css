@@ -1,0 +1,28 @@
+:root {
+    --cl-text: #333;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    min-height: 100vh;
+    color: var(--cl-text);
+}
+
+.modern-css {
+    width: 200px;
+    writing-mode:vertical-lr;
+    border-inline-start: 5px solid red;
+    border-block: 5px solid blue;
+    margin-inline: auto;
+}

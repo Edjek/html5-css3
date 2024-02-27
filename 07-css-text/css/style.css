@@ -65,7 +65,7 @@ a:hover {
     font-size: 23px;
 }
 
-/* La pseudo class :visited signifie une fois que le lien a été clicqué une fois */
+/* La pseudo class :visited signifie une fois que le lien a été cliqué une fois */
 a:visited {
     color: orange;
 }
