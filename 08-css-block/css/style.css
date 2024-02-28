@@ -80,7 +80,7 @@ h1 {
 
     /* { box-shadow: }  permet de créer une ombre */
     box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.5);
-    transition: .25s;
+    transition: 0.25s;
 }
 
 .round:hover {
