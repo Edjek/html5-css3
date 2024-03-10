@@ -1,3 +1,7 @@
+<--! Aide memoire HTML/CSS/JS -->
+http://cheatsheets.shecodes.io/
+https://quickref.me/javascript.html
+
 <!-- Les polices de caractère -->
 https://fonts.google.com/
 
