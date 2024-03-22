@@ -3,6 +3,9 @@ http://cheatsheets.shecodes.io/
 https://quickref.me/javascript.html
 https://github.com/hail2u/html-best-practices/blob/main/README.fr.md
 
+<!-- Web Design  -->
+https://jgthms.com/web-design-in-4-minutes/
+
 <!-- Les polices de caractère -->
 https://fonts.google.com/
 
