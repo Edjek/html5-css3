@@ -3,7 +3,7 @@
 > Durée : 5 jours (35 heures au total)
 
 <center>
-<img src="./logo.png" alt="web" width="100">
+<img src="./img/logo.png" alt="web" width="100">
 </center>
 
 <br>
